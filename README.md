@@ -29,11 +29,13 @@ Soy Andres Guzman actualmente tengo 20 años, soy un ingeniero en proceso, y dur
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres685&theme=tokyonight" /> <br/><br/>
+    <img src="https://streak-stats.demolab.com?user=Andres685&theme=tokyonight"/> <br/><br/>
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Andres685&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres685&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Andres685&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres685&show_icons=true&theme=tokyonight)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres685&layout=compact&theme=tokyonight)
+
 
 ## Mis Habilidades Comprenden
 
