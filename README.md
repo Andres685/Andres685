@@ -12,7 +12,7 @@ Soy Andres Guzman actualmente tengo 20 años, soy un ingeniero en proceso, y dur
 - :technologist: Amo mi carrera y la deseo aplicar para solucionar cualquier `Problema`.
 - :student: Actualmente me Estoy formando como `Full-stack` e `Ingeniero de Software`.
 - :nerd_face: Siempre deseo `Aprender cosas Nuevas`.
-- :thinking: Actualmente estoy buscando `Oportunidades de Trabajo`, Aqui te dejo [MI HOJA DE VIDA](https://drive.google.com/file/d/19wUxrZX5rPPfz-aHPundcMegTXSP3D7j/view?usp=sharing).
+- :thinking: Actualmente estoy buscando `Oportunidades de Trabajo`, Aqui te dejo [MI HOJA DE VIDA](https://drive.google.com/file/d/1Ne1owOUW7gBxrBMjzGzYYj20PMPVPwHz/view?usp=drive_link).
 <br>
 <p><b>Revisa mis Repositorios, con algunos Proyectos Realizados</b></p>
 <div>
